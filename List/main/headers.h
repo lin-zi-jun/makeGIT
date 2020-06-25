@@ -1,5 +1,26 @@
+#pragma once
+
 #include <stdio.h>
 #include <stdlib.h>
+#include "headers.h"
+
+#include "ClearList.h"
+#include "compare.h"
+#include "DeleteElem.h"
+#include "DestroyList.h"
+#include "FindElem.h"
+#include "GetElem.h"
+#include "getLength.h"
+#include "InitList.h"
+#include "InsertElem.h"
+#include "isElem.h"
+#include "NextElem.h"
+#include "PreElem.h"
+#include "TraverList.h"
+
+
+
+
 
 #define TRUE 1
 #define FALSE 0
